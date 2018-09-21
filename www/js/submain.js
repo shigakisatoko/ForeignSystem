@@ -404,5 +404,5 @@ function backHome(){
 
 //gazou
 function gazouDialog(){
-     alert("THE END!");
+     alert("Congraturation!");
 }
